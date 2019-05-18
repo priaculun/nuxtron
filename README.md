@@ -15,6 +15,9 @@ $ yarn dev (or `npm run dev`)
 
 # Build packages
 $ yarn build (or `npm run build`)
+
+# Original Repo
+https://github.com/saltyshiomix/nuxtron
 ```
 
 ## Resources
