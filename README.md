@@ -5,7 +5,7 @@
 ```bash
 $ nuxtron init my-app --example with-javascript-vuetify
 
-$ cd my-app
+$ cd my-app Good
 
 # Install dependencies
 $ yarn (or `npm install`)
